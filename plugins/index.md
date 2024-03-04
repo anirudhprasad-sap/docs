@@ -257,6 +257,20 @@ Available for:
 [<img src="../assets/logos/nodejs.svg" style="height:2.5em; display:inline; margin:0 0.2em;" alt="Node.js logo"/>](https://github.com/cap-js/telemetry)
 
 
+
+## CAP Operator
+
+[@cap-js/cap-operator-plugin](https://npmjs.com/package/@cap-js/cap-operator-plugin) {.subtitle}
+
+[CAP Operator](https://sap.github.io/cap-operator/) manages and automates the lifecycle operations involved in running multi-tenant BTP golden path-based CAP applications on Kubernetes (K8s) clusters. Currently, to deploy an application using CAP Operator, the application must manually define the custom resources in a helm chart. The CAP Operator plugin provides an easy way to generate such a helm chart and this helm chart can be easily modified if needed without needing deep knowledge of helm concepts.
+
+Learn more about how to add and consume the CAP Operator plugin in our [documentation](https://github.com/cap-js/cap-operator-plugin/blob/main/README.md).
+
+Available for:
+
+[<img src="../assets/logos/nodejs.svg" style="height:2.5em; display:inline; margin:0 0.2em;" alt="Node.js logo"/>](https://github.com/cap-js/cap-operator-plugin)
+
+
 <div id="attachments" />
 
 <div id="internal-plugins" />
